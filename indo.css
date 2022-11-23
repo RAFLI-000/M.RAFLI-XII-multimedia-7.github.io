@@ -1,0 +1,22 @@
+body{
+    background-image: url('wer.jpg');
+    background-size: cover;
+    
+}
+.title{
+    font-size: 47px;
+    color: white;
+    font-variant: small-caps;
+    margin-left: 10px;
+}
+.yy{
+    font-size: 18px;
+    margin-left: 10px;
+}
+a{
+    margin-left: 10px;
+}
+.uu{
+    margin-left: 10px;
+    color: white;
+}
